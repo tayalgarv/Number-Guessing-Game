@@ -11,7 +11,6 @@ void game()
     srand(time(0));
 
     int rand_num = rand() % 10;
-    cout << rand_num << endl;
     cout << endl;
     cout << "\t";
     cout << "--------------------------------------";
